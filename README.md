@@ -1,0 +1,11 @@
+Library Management System Project<br/>
+- Technologies: C#, SQL Server, DevExpress<br/>
+- Overview: Engineered a library management system to streamline interactions with suppliers and customers, manage lending operations, and automate inventory and classification of books.<br/>
+- Functionalities:<br/>
+  - Facilitated purchase orders from suppliers and sales transactions to customers.<br/>
+  - Organized loan operations with set conditions and managed book archiving and categorization.<br/>
+  - Implemented features for reporting, interactive messaging, and error handling in data entry.<br/>
+  - Divided the system into modules: Main, Publishing Houses, Items, Books, Audio Books, PDF Books, Customers, Sales, Borrowing, Outgoing Mail, Inbox, Library Details.<br/>
+  - Enabled administrative staff to manage system sections, with role-specific permissions for librarians and officers.<br/>
+  - Provided customer login for library asset browsing and direct communication with library management.<br/>
+- Special Features: Support for attaching images and PDF files with customer messages.<br/>
