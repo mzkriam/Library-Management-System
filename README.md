@@ -1,4 +1,4 @@
-# Library Management System Project
+# Library Management System Project (LMS)
 
 ## Technologies
 - **C#, SQL Server, DevExpress**
